@@ -1,0 +1,25 @@
+/* Write your code here. */
+.container-nav {
+  background-color: #9796f0;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.paragraphone {
+  font-weight: bold;
+  padding-left: 5px;
+  padding-right: 5px;
+  font-size: 20px;
+}
+.headingone {
+  padding-left: 10px;
+}
+.nav-container {
+  display: flex;
+  align-items: center;
+  color: white;
+  font-size: 13px;
+  align-self: flex-start;
+}

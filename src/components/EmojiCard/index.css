@@ -1,0 +1,16 @@
+/* Write your code here. */
+.list-item {
+  background-color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: 15px;
+  width: 200px;
+  padding: 20px;
+  list-style-type: none;
+}
+.emojiurlclassone {
+  height: 80px;
+  width: 80px;
+}

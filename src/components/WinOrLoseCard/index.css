@@ -1,0 +1,30 @@
+/* Write your code here. */
+.winorderosecontainer {
+  background-color: #ffffff33;
+  height: 500px;
+  width: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.imageOne {
+  height: 250px;
+  width: 200px;
+}
+.youloseheadingone {
+  color: white;
+  font-family: 'Roboto';
+}
+.topscoreparagraph {
+  font-size: 25px;
+  color: white;
+  font-family: 'Roboto';
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.topscoreparagraph1 {
+  font-size: 25px;
+  color: blue;
+  padding-bottom: 8px;
+  font-family: 'Roboto';
+}
